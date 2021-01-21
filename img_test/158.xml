@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lobos</folder>
+	<filename>158.png</filename>
+	<path>C:\Users\Diego Mata\Desktop\Lobos\158.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lobo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>31</ymin>
+			<xmax>842</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
