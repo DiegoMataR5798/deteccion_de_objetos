@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tigre</folder>
+	<filename>020.jpeg</filename>
+	<path>C:\Users\Diego Mata\Desktop\Tigre\020.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>226</ymin>
+			<xmax>242</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>6</ymin>
+			<xmax>430</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
