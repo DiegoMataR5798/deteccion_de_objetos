@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Lobos</folder>
+	<filename>057.jpeg</filename>
+	<path>C:\Users\Diego Mata\Desktop\Lobos\057.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lobo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>8</ymin>
+			<xmax>56</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lobo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>28</ymin>
+			<xmax>91</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>
