@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imagenesmias</folder>
+	<filename>509.jpg</filename>
+	<path>C:\Users\Diego Mata\Desktop\Imagenesmias\509.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>552</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Diego</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>128</ymin>
+			<xmax>473</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
